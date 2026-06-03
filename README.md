@@ -16,13 +16,6 @@ Currently @ **Cognizant** · SIH 2024 Finalist
 ---
 
 ```bash
-➜  ~ cat tagline.txt
-```
-> *"I don't just write code — I architect systems that think, scale, and endure."*
-
----
-
-```bash
 ➜  ~ ls skills/
 ```
 
@@ -50,19 +43,6 @@ cloud-infra/  → Azure  AWS  Docker  Git  Linux  Postman
   "focus"    : ["Backend Systems", "AI Engineering", "Cloud Architecture"]
 }
 ```
-
----
-
-```bash
-➜  ~ git log --oneline --graph
-```
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varadpawar19&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="155px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varadpawar19&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact" height="155px"/>
-</div>
-
----
 
 ```bash
 ➜  ~ cat links.sh
